@@ -42,6 +42,13 @@ model_building.ipynb
 ***
 Part 1: Connecting to CityBikes API
 
+* imported libraries
+* used api endpoint and created a network url
+* get the network id information
+* extract station information
+* parse relevant info from json into df
+* print the df info for city
+
 Part 2: Connecting to Foursquare and Yelp APIs
 
 Part 3: Joining Data

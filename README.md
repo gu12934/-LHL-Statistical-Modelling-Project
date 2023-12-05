@@ -15,7 +15,7 @@ In this project, we will combine and practice implementing what we have learned 
 *Identifying trends and patterns in data using statistical models
 
 *Interpreting the results of the statistical models
-
+***
 ## Process
 
 

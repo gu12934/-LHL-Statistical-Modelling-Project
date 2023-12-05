@@ -19,6 +19,7 @@ In this project, we will combine and practice implementing what we have learned 
 ***
 ## Files that were used
 
+***
 city_bikes.ipynb
 
 * This notebook should be filled out based on its instructions in Part 1 of the assignment.md file and should show all of the steps you used to execute those tasks

@@ -16,7 +16,6 @@ In this project, we will combine and practice implementing what we have learned 
 
 *Interpreting the results of the statistical models
 
-
 ## Process
 
 

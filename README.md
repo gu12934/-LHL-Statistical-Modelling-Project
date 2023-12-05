@@ -16,12 +16,16 @@ In this project, we will combine and practice implementing what we have learned 
 
 *Interpreting the results of the statistical models
 
+
 ## Process
 
 
 Part 1: Connecting to CityBikes API
+
 Part 2: Connecting to Foursquare and Yelp APIs
+
 Part 3: Joining Data
+
 Part 4: Building a Model
 
 ### (your step 1)

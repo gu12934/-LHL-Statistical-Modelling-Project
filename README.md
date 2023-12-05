@@ -4,17 +4,17 @@
 
 In this project, we will combine and practice implementing what we have learned throughout this course, including:
 
-Accessing data using APIs
+- Accessing data using APIs
 
-Cleaning and transforming data using Python
+- Cleaning and transforming data using Python
 
-Loading data into a database using Python
+- Loading data into a database using Python
 
-Performing EDA, including using both statistics and visualizations
+- Performing EDA, including using both statistics and visualizations
 
-Identifying trends and patterns in data using statistical models
+- Identifying trends and patterns in data using statistical models
 
-Interpreting the results of the statistical models
+- Interpreting the results of the statistical models
 
 ## Process
 

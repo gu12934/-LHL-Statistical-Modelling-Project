@@ -70,7 +70,9 @@ Part 4: Building a Model
 When comparing the quality of Foursquare API and Yelp API coverage for Barcelona, the Yelp API provided better details such as review count, rating, and price from a single API call based on latitude and longitude. The Yelp API was chosen to proceed with the analysis since it offers more detailed results with fewer steps compared to the Four Square API which does not give us as detailed information and insights. 
 
 The results from the Multivariate Linear Regression Model were not very insightful. Due to the nature of the dataset, it seems like all the numerical variables are not correlated with one another.
+
 <img width="484" alt="image" src="https://github.com/gu12934/-LHL-Statistical-Modelling-Project/assets/36687057/f15a2e29-d678-4d55-83a2-daaabb7329e0">
+
 
 We can see below a few highlights from the model output:
 

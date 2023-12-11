@@ -98,6 +98,9 @@ We can see below a few highlights from the model output:
 * Compare other cities and see what the overall data says with the API
 * Conduct more sql series and answer more questions
 
+## Final presentation
+* https://docs.google.com/presentation/d/11QurtD-G0M9GgleXOh7RPwbe5j1P3qddLjF-bSf6fC4/edit#slide=id.g2a5d21df92d_1_64
+
 ## Rubric
 
 <img width="680" alt="image" src="https://github.com/gu12934/-LHL-Statistical-Modelling-Project/assets/36687057/20a68f48-c053-41c4-bb53-9d744dcd3d8f">

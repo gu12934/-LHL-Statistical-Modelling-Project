@@ -1,4 +1,5 @@
 # Final-Project-Statistical-Modelling-with-Python
+![image](https://github.com/gu12934/-LHL-Statistical-Modelling-Project/assets/36687057/d28469cb-28e8-4ed8-8235-82bda1033d58)
 
 ## Project/Goals
 ***

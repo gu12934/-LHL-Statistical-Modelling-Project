@@ -24,18 +24,22 @@ In this project, we will combine and practice implementing what we have learned 
 city_bikes.ipynb
 
 * This notebook should be filled out based on its instructions in Part 1 of the assignment.md file and should show all of the steps you used to execute those tasks
-
+* [link](https://github.com/gu12934/-LHL-Statistical-Modelling-Project/blob/main/notebooks/city_bikes.ipynb)
+  
 yelp_foursquareEDA.ipynb
 
 * This notebook should be filled out based on its instructions in Part 2 of the assignment.md file and should show all of the steps you used to execute those tasks
+* [link](https://github.com/gu12934/-LHL-Statistical-Modelling-Project/blob/main/notebooks/yelp_foursquare_EDA1.ipynb)
 
 joining_data.ipynb
 
 * This notebook should be filled out based on its instructions in Part 3 of the assignment.md file and should show all of the steps you used to execute those tasks
+* [link](https://github.com/gu12934/-LHL-Statistical-Modelling-Project/blob/main/notebooks/joining_data.ipynb)
 
 model_building.ipynb
 
 * This notebook should be filled out based on its instructions in Part 4 of the assignment.md file and should show all of the steps you used to execute those tasks
+* [link](https://github.com/gu12934/-LHL-Statistical-Modelling-Project/blob/main/notebooks/model_building.ipynb)
 
 ***
 ## Process

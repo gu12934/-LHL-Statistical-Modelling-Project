@@ -1,7 +1,7 @@
 # Final-Project-Statistical-Modelling-with-Python
 ![image](https://github.com/gu12934/-LHL-Statistical-Modelling-Project/assets/36687057/d28469cb-28e8-4ed8-8235-82bda1033d58)
 
-## Project/Goals
+## Project/Goals🎈
 ***
 In this project, we will combine and practice implementing what we have learned throughout this course, including:
 
@@ -18,7 +18,7 @@ In this project, we will combine and practice implementing what we have learned 
 * Interpreting the results of the statistical models
 
 ***
-## Files that were used
+## Files Used 📁
 
 ***
 city_bikes.ipynb
@@ -42,7 +42,7 @@ model_building.ipynb
 * [link](https://github.com/gu12934/-LHL-Statistical-Modelling-Project/blob/main/notebooks/model_building.ipynb)
 
 ***
-## Process
+## Process⏩
 
 ***
 Part 1: Connecting to CityBikes API
@@ -71,7 +71,7 @@ Part 4: Building a Model
 * Interpret results. Expand on the model output, and derive insights from your model.
 
 ***
-## Results
+## Results🔍
 When comparing the quality of Foursquare API and Yelp API coverage for Barcelona, the Yelp API provided better details such as review count, rating, and price from a single API call based on latitude and longitude. The Yelp API was chosen to proceed with the analysis since it offers more detailed results with fewer steps compared to the Four Square API which does not give us as detailed information and insights. 
 
 The results from the Multivariate Linear Regression Model were not very insightful. Due to the nature of the dataset, it seems like all the numerical variables are not correlated with one another.
@@ -90,7 +90,7 @@ We can see below a few highlights from the model output:
 * P>|t|: A p-value of less than 0.05 is considered to be statistically significant. This regression output shows that all p-values are >0.05. In other words,review_count, rating, and price attributes of a point of interest do not impact the number of bikes in a bike station.
 
 
-## Challenges 
+## Challenges 🎱
 * it was very difficult to use the YELP api data without knowing the Bearer part of the data
 * having environment variables they werent being called too easily
 * converting the json data type into a dataframe
@@ -98,12 +98,12 @@ We can see below a few highlights from the model output:
 * had lots of errors and debugging with the 2 API's
 * reorganizing and choosing which columns are useful
 
-## Future Goals
+## Future Goals🥅
 * I would explore the foursquare API and build a similar model and see what output i would get for the regression model
 * Compare other cities and see what the overall data says with the API
 * Conduct more sql series and answer more questions
 
-## Final presentation
+## Final Presentation🌠
 * https://docs.google.com/presentation/d/11QurtD-G0M9GgleXOh7RPwbe5j1P3qddLjF-bSf6fC4/edit#slide=id.g2a5d21df92d_1_64
 
 
